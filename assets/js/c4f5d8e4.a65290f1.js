@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkavaota_docs=self.webpackChunkavaota_docs||[]).push([[4195],{62841:(a,s,t)=>{t.r(s),t.d(s,{default:()=>o});t(67294);var c=t(16550),e=t(85893);function o(){return(0,e.jsx)(c.l_,{to:"avaota-sbc/"})}}}]);
